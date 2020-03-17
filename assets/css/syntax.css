@@ -1,0 +1,40 @@
+/*******************************************************************************
+Slate Theme for GitHub Pages
+by Jason Costello, @jsncostello
+*******************************************************************************/
+
+@import url(pygment_trac.css);
+
+/*******************************************************************************
+Theme Styles
+*******************************************************************************/
+
+pre, code {
+  width: 100%;
+  color: #222;
+  background-color: #fff;
+
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 14px;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+
+  box-shadow: 0 0 5px rgba(0,0,0,.1);
+}
+
+pre {
+  padding: 3px;
+  overflow: auto;
+}
+
+code {
+  padding: 3px;
+  margin: 0 3px;
+}
+
+pre code {
+  display: block;
+  box-shadow: none;
+}
