@@ -23,10 +23,10 @@ there are some common patterns on dealing with IO.
   {::options parse_block_html="true" /} 
   <details><summary markdown="span">Python3</summary>
   ```python
-  # read two int
+  # read two ints
   a, b = map(int, input().strip().split())
 
-  # read a list of int
+  # read a list of ints
   arr = list(map(int, input().strip().split()))
   ```
   </details>
