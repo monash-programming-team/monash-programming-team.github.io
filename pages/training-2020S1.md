@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MCPC Online Training Season Start
+sitemap: false
 
 sticky: true
 sticky-desc: Online Training Season Start, Join us!

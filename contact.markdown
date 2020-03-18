@@ -1,5 +1,6 @@
 ---
 layout: nav
+sitemap: false
 ---
 
 ## WANT TO GET INVOLVED?
