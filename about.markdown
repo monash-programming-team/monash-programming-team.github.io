@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: nav
 ---
 
 ## WHO ARE WE?

@@ -27,8 +27,8 @@ url: "http://blog.monashicpc.com" # the base hostname & protocol for your site, 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 5
-paginate_path: /page/:num/
+paginate: 2
+paginate_path: /archives/page/:num/
 
 
 markdown: kramdown

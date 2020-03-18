@@ -14,7 +14,7 @@ Due to the outbreak of COVID-19, we have to move our training online.
 ### How does the online training work?
 Every Friday night, I will prepare a problem set with moderate difficulty and publish [online](https://vjudge.net/group/monashicpc).
 For those who want to participate, please register an account and join our group (click "Join now" at top-right corner).
-Contests will keep running until 02, May, the date of MCPC-2020.
+Contests will keep running until **24, April** , one day before the MCPC-2020.
 
 In training contests, collaboration is allowed - you can discuss with others; 
 but copy-pasting is disallowed, any confirmed behaviour may disqualify you from MCPC.

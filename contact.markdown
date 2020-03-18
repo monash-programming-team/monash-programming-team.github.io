@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: nav
 ---
 
 ## WANT TO GET INVOLVED?

@@ -1,10 +1,12 @@
 ---
-layout: home
+layout: nav
 ---
 
 ## PRACTICES
 
   We typically run training session once a week. You can [join us](contact) to track upcoming events.
+
+---
 
 ## WANT TO GET STARTED?!
 
@@ -12,6 +14,7 @@ layout: home
   here are a couple websites that host some problems.
   If you have any questions or problems, 
   please contact me and I will help you out in any way that I can!
+
 
 ### 1. Input/Output
 
@@ -34,6 +37,7 @@ there are some common patterns on dealing with IO.
 
 
 * [Input/output: cpp only](https://vjudge.net/contest/361790)
+
 
 ### 2. Try some algorithmic problems
 

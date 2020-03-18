@@ -1,0 +1,32 @@
+---
+layout: nav
+title: archives
+---
+
+<table border="1" class="fancytable">
+<thead>
+<tr>
+  <th>Time</th>
+  <th>Title</th>
+</tr>
+<thead>
+<tbody>
+{% for post in paginator.posts %}
+<tr>
+  <td><time datetime="{{ post.date | date_to_xmlschema }}"> 
+    <a style="font-size: 15px; font-weight:bold">
+      {{ post.date | date_to_string }}
+    </a>
+  </time></td>
+  <td>
+    <a style="font-size: 15px; font-weight:bold" href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+      {{ post.title }}
+    </a>
+  </td>
+</tr>
+{% endfor %}
+
+<tbody>
+</table>
+
+{% include paginator.html %}
