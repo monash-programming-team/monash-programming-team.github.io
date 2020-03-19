@@ -97,4 +97,4 @@ It's time to be involved in some problem-solving skill
 
 ---
 
-### See more in [FAQs](/pages/faq)
+### See more in [FAQs](/faqs)
