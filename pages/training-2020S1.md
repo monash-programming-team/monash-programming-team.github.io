@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: MCPC Online Training Season Start
 sitemap: false
 
@@ -7,10 +7,14 @@ sticky: true
 sticky-desc: Online Training Season Start, Join us!
 ---
 
-Monash Competitive Programming Training Season is start.
+# Online Training Season is started
+
+Monash Competitive Programming Training Season is started.
 * fill the form to express your interests - [training survey](https://forms.gle/cYSeTNN3hFmQbChp8).
 
 Due to the outbreak of COVID-19, we have to move our training online.
+
+---
 
 ### How does the online training work?
 Every Friday night, I will prepare a problem set with moderate difficulty and publish [online](https://vjudge.net/group/monashicpc).
