@@ -1,0 +1,14 @@
+---
+layout: nav
+title: wiki
+---
+
+{% for page in site.pages %}
+{% if page.tag contains "wiki" %}
+  <li>
+    <a style="font-size: 15px; font-weight:bold" href="{{ page.url | prepend: site.baseurl | replace: '//', '/' }}">
+      {{ page.title }}
+    </a>
+  </li>
+{% endif %}
+{% endfor %}

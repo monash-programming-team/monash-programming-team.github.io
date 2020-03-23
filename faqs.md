@@ -7,12 +7,7 @@ layout: page
 > **Q:** Why I passed all samples, but still get `Wrong Answer (WA)` ?
 
 * There are multiple secret test cases; in classic rules, failing on any of them causes `Wrong Answer`, so you will have to spot the bug by yourself.
-
-* Another common reason cauase `WA` even your algorithm is fully correct is **extra output** , for example 
-```python
-a = input("type an integer:")
-```
-will produce extra output `type an integer:`, and online judge will regard this as a part of your answer and gives you `WA` verdict.
+See more in [common reasons for WA](wiki/common-wa).
 
 ---
 
