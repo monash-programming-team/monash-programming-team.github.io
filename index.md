@@ -13,7 +13,7 @@ layout: home
 | [Monash 2020 S1W2 - Beginner](https://vjudge.net/contest/362650)        | Individual (Training) | 2020-03-20 | Finished  |
 | [Monash 2020 S1W2 - Intermediates](https://vjudge.net/contest/363310)        | Individual (Training) | 2020-03-20 | Finished  |
 | [ANZAC Round 1](http://contest.sppregional.org/)             | Team                  | 2020-03-21 | Finished  |
-| [Monash 2020 S1W3](https://vjudge.net/contest/364479)        | Individual (Training)  | 2020-03-27 | Pending   |
+| [Monash 2020 S1W3](https://vjudge.net/contest/364479)        | Individual (Training)  | 2020-03-27 | Running   |
 | [Google Code Jam 2020](https://codingcompetitions.withgoogle.com/codejam/schedule) | Individual            | 2020-04-03 | Scheduled |
 | [Google Code Jam R1A](https://codingcompetitions.withgoogle.com/codejam/schedule) | Individual            | 2020-04-11 | Scheduled |
 | [Google Code Jam R1B](https://codingcompetitions.withgoogle.com/codejam/schedule) | Individual            | 2020-04-20 | Scheduled |
