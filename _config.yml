@@ -23,6 +23,7 @@ owner: Monash Programming Team
 email: eggeek@monashicpc.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.monashicpc.com" # the base hostname & protocol for your site, e.g. http://example.com
+contest_calendar: "https://calendar.google.com/calendar/embed?src=1rh04s0jekkmi05o12594vptec%40group.calendar.google.com&ctz=Australia%2FMelbourne"
 
 source: .
 destination: ./_site
