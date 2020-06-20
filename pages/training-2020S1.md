@@ -2,9 +2,6 @@
 layout: page
 title: MCPC Online Training Season Start
 sitemap: false
-
-sticky: true
-sticky-desc: Online training is still running!
 ---
 
 # Online Training Season is started
