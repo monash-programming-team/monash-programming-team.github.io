@@ -7,7 +7,10 @@ sitemap: false
 # Online Training Season is started
 
 Monash Competitive Programming Training Season is started.
-* fill the form to express your interests - [training survey](https://forms.gle/cYSeTNN3hFmQbChp8).
+* fill the form to express your interests 
+  * ~~[training survey](https://forms.gle/cYSeTNN3hFmQbChp8)~~ (2020-S1)
+  * [Monash students](https://forms.gle/pdi66cHZi2xzNz2AA) (Winter)
+  * [High school students](https://forms.gle/iSDdMcoHvKKzTskt5) (Winter)
 
 Due to the outbreak of COVID-19, we have to move our training online.
 
