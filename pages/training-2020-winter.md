@@ -3,7 +3,7 @@ layout: page
 title: Monash Competitive Programming 2020 Winter Training 
 sitemap: false
 
-sticky: true
+sticky: false
 sticky-desc: Winter training is coming
 ---
 
