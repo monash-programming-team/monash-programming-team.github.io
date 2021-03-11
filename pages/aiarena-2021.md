@@ -41,7 +41,7 @@ When: Saturday 10th April (Midsem break), with the game and rules being revealed
 
 Teams of 2 to 3 can compete. If you can't find any friends to team up with then join the <a href="https://discord.link/MonashICPC" target="_blank">discord</a> and make some new friends! We have a channel for finding teammates.
 
-Please fill out the google form [here](https://forms.gle/aFdoH4Jvc2J4jKTFA) to signup for the competition (You need to sign on from a monash address). 
+Please fill out the google form [here](https://forms.gle/Mre312SkkLpKpSYM8) to signup for the competition (You need to sign on from a monash address). 
 
 For further announcements about this and other competitions, consider joining the club discord <a href="https://discord.link/MonashICPC" target="_blank">here</a>.
 We chat about programming problems (that often show up in coding interviews!), organise contests like this, and compete in worldwide competitions such as [ICPC](https://icpc.global/)!
