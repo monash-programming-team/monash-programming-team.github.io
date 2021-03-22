@@ -22,6 +22,8 @@ It should also be stressed that **'AI' is not synonymous with Machine Learning!*
 
 This year, all bots will need to be written in *Python* to function, due to some limitations. Don't worry if you haven't programmed in Python before, as it is rather easy to pick up.
 
+Note: This competition is rather separate from all of the other contests and workshops that this club normally holds. As such, the rest of the content on this site likely won't be of much use in preparing for the competition. Just make sure you've brushed up on your Python a bit!
+
 ## When / Where is it?
 
 Where: TBA - Somewhere on the Clayton Campus. Remote Participation allowed but physical is much preferred.
