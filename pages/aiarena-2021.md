@@ -12,6 +12,8 @@ sticky-desc: AIArena Hackathon 2021 Details
     <h1 style="position: absolute; top: 20px; left: 20%; right: 20%; color: black; background-color: white; text-align: center;">AIArena Hackathon 2021 is here!</h1>
 </div>
 
+<center><iframe width="700px" height="400px" src="https://www.youtube.com/embed/DhGlMwzdNRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin: auto; padding-top: 20px;"></iframe></center>
+
 ## What is it?
 
 The AIArena Hackathon is a group competition centred around AI Programming for a particular game.
