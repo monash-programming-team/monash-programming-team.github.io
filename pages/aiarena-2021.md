@@ -18,7 +18,7 @@ The AIArena Hackathon is a group competition centred around AI Programming for a
 A game is chosen (in this case prepared by us), and the challenge is for your group to program a bot that outperforms all others in the game.
 The details of the game will be released 3 days before the contest is held. The programming instructions and tools to play the game will be released on the day of the contest.
 
-It should also be stressed that **'AI' is not synonomous with Machine Learning!**. Any sort of strategy, no matter how simple, fits under the broad term AI. That being said you may utilise machine learning if you feel so inclined.
+It should also be stressed that **'AI' is not synonymous with Machine Learning!**. Any sort of strategy, no matter how simple, fits under the broad term AI. That being said you may utilise machine learning if you feel so inclined.
 
 This year, all bots will need to be written in *Python* to function, due to some limitations. Don't worry if you haven't programmed in Python before, as it is rather easy to pick up.
 
