@@ -1,9 +1,8 @@
 ---
 layout: page
 title: AIArena Hackathon 2021 is here!
-sitemap: false
 
-sticky: true
+sitemap: false
 sticky-desc: AIArena Hackathon 2021 Details
 ---
 
